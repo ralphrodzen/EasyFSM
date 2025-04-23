@@ -1,0 +1,15 @@
+#######################################
+# Syntax Coloring Map For SimpleFSM
+#######################################
+
+FSM              KEYWORD1
+State            KEYWORD1
+FSMMode          KEYWORD1
+
+FSM_MODE_ANY     LITERAL1
+FSM_MODE_SEQUENTIAL LITERAL1
+
+setMode          KEYWORD2
+update           KEYWORD2
+getCurrentStep   KEYWORD2
+setCurrentStep   KEYWORD2
